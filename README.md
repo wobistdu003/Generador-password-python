@@ -1,5 +1,5 @@
 
-![image](https://github.com/wobistdu003/passwd.py/assets/110427600/dbbee049-3d1c-4f96-a642-b8ba4acaf427)
+![Python-Symbol_0](https://github.com/wobistdu003/passwd.py/assets/110427600/d18bb362-f81f-416a-b0e9-5d222041ead6)
 
 # Generador de contraseñas aleatorias.
 
