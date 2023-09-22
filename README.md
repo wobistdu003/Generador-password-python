@@ -6,6 +6,11 @@ Para este programa se importa el módulo "random" que implementa generadores de 
 utilizando la función "random.sample(population, counts=None)", que permite retornar un listado de caracteres almacenado en las variables 
 (letters , numbrers, characteres).
 
+
+
+
+
+
 > [!NOTE]
 > En el Código se utilizó con el intérprete de python para linux "#! /usr/bin/python3", si desea utilizarlo en Windows, solamente debe borrar la primera línea del Código.
 
