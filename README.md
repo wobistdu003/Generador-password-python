@@ -6,7 +6,7 @@ Para este programa se importa el módulo "random" que implementa generadores de 
 utilizando la función "random.sample(population, counts=None)", que permite retornar un listado de caracteres almacenado en las variables 
 (letters , numbrers, characteres).
 
-##Video:movie_camera:
+## Video:movie_camera:
 
 
 
