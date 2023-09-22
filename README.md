@@ -5,7 +5,8 @@
 Para este programa se importa el módulo "random" que implementa generadores de secuencia aleatoria de una lista o conjunto de listas
 utilizando la función "random.sample(population, counts=None)", que permite retornar un listado de caracteres almacenado en las variables 
 (letters , numbrers, characteres).
-##Video🎬 
+
+##Video:movie_camera:
 
 
 
