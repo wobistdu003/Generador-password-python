@@ -11,7 +11,7 @@ utilizando la función "random.sample(population, counts=None)", que permite ret
 
 
 
-#:loudspeaker:
+# :loudspeaker:
 > [!NOTE]
 > En el Código se utilizó con el intérprete de python para linux "#! /usr/bin/python3", si desea utilizarlo en Windows, solamente debe borrar la primera línea del Código.
 
