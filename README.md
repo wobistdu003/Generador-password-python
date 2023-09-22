@@ -2,11 +2,10 @@
 
 # Generador de contraseñas aleatorias.
 
-Para este programa se importa el modulo "random" que implementa generadores de secuencia aleatoria de una lista o conjunto de listas
-utilizando la funciòn "random.sample(population, counts=None)", que permite retornar un listado de carateres alamcenado en las variasbles 
+Para este programa se importa el módulo "random" que implementa generadores de secuencia aleatoria de una lista o conjunto de listas
+utilizando la función "random.sample(population, counts=None)", que permite retornar un listado de caracteres almacenado en las variables 
 (letters , numbrers, characteres).
 
-En el codigo se utilizo el interprete de python para linux, si desea utilizarlo en Windows, solamnete debe borrar la linea
-"#! /usr/bin/python3".
-
+> [!NOTE]
+> En el Código se utilizó con el intérprete de python para linux "#! /usr/bin/python3", si desea utilizarlo en Windows, solamente debe borrar la primera línea del Código.
 
