@@ -13,5 +13,7 @@ utilizando la función "random.sample(population, counts=None)", que permite ret
 
 ## :loudspeaker:
 > [!NOTE]
-> En el Código se utilizó con el intérprete de python para linux "#! /usr/bin/python3", si desea utilizarlo en Windows, solamente debe borrar la primera línea del Código.
+> En el Código se utilizó con el intérprete de python para linux "#! /usr/bin/python3". Esta línea es conocida como una "shebang", la cual
+> indica la ruta al intérprete de Python que se debe utilizar para ejecutar el script. En este caso, se especifica que el intérprete de Python 3.
+> Si desea utilizarlo en Windows, solamente debe borrar la primera línea del Código.
 
